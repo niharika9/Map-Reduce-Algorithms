@@ -4,7 +4,9 @@ The goal of these tasks is to perform data analysis using Spark in scala
 ### Environment Configuration:
 
 IDE   : IntelliJIDE
+
 Spark : 2.3.1 version
+
 Scala : 2.11.0 version
 
 
